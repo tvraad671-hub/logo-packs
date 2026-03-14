@@ -1,8 +1,3 @@
 {
-  "clubs": {
-    "Barcelona": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/barcelona.png",
-    "Real Madrid": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/real_madrid.png",
-    "Arsenal": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/arsenal.png",
-    "Everton": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/everton.png"
-  }
+  "clubs": {}
 }
