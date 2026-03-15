@@ -1,29 +1,29 @@
 {
   "clubs": {
     "Barcelona": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/barcelona.png",
-    "Athletic Bilbao": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/athleticbilbao.png",
-    "Atletico Madrid": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/atleticomadrid.png",
-    "Celta Vigo": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/celtavigo.png",
     "Real Madrid": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/realmadrid.png",
+    "Atletico Madrid": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/atleticomadrid.png",
+    "Athletic Bilbao": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/athleticbilbao.png",
     "Real Sociedad": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/realsociedad.png",
     "Sevilla": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/sevilla.png",
     "Valencia": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/valencia.png",
+    "Villarreal": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/villarreal.png",
+    "Celta Vigo": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/celtavigo.png",
     "Getafe": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/getafe.png",
     "Girona": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/girona.png",
     "Mallorca": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/mallorca.png",
     "Osasuna": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/osasuna.png",
     "Rayo Vallecano": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/rayovallecano.png",
-    "Villarreal": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/villarreal.png",
     "Alaves": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/alaves.png",
-    "Real Betis": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/realbetis.png",
+    "Betis": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/betis.png",
 
     "Arsenal": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/arsenal.png",
     "Aston Villa": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/astonvilla.png",
     "Chelsea": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/chelsea.png",
+    "Liverpool": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/liverpool.png",
     "Manchester City": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/mancity.png",
     "Manchester United": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/manutd.png",
-"Liverpool": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/liverpool.png",
-"Newcastle": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/newcastle.png",
-"Tottenham": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/tottenham.png",
+    "Newcastle": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/newcastle.png",
+    "Tottenham": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/tottenham.png"
   }
-
+}
