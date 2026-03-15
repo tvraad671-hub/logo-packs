@@ -1,7 +1,20 @@
 {
   "clubs": {
-    "Arsenal": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/arsenal.png",
-    "Chelsea": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/chelsea.png",
-    "Liverpool": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/liverpool.png"
+    "Barcelona": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/barcelona.png",
+    "Real Madrid": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/realmadrid.png",
+    "Atletico Madrid": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/atleticomadrid.png",
+    "Athletic Bilbao": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/athleticbilbao.png",
+    "Real Sociedad": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/realsociedad.png",
+    "Sevilla": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/sevilla.png",
+    "Valencia": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/valencia.png",
+    "Villarreal": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/villarreal.png",
+    "Real Betis": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/realbetis.png",
+    "Celta Vigo": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/celtavigo.png",
+    "Getafe": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/getafe.png",
+    "Girona": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/girona.png",
+    "Mallorca": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/mallorca.png",
+    "Osasuna": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/osasuna.png",
+    "Rayo Vallecano": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/rayovallecano.png",
+    "Alaves": "https://raw.githubusercontent.com/tvraad671-hub/logo-packs/main/club_logos_pack/alaves.png"
   }
 }
